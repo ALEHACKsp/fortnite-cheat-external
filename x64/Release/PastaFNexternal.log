@@ -1,0 +1,294 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Fortnite Skill.cpp
+C:\Users\roka le plus moche\Downloads\External_Fixed\PastaFN External\Fn\win_utils.h(308,74): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\roka le plus moche\Downloads\External_Fixed\PastaFN External\Fn\xor.hpp(211,22): warning C4244: 'return' : conversion de 'int' en 'char', perte possible de données
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\uxtheme.h(1603,57): warning C4459: la déclaration de 'hwnd' masque la déclaration globale
+C:\Users\roka le plus moche\Downloads\External_Fixed\PastaFN External\Fn\win_utils.h(24,6): message : voir la déclaration de 'hwnd'
+Fortnite Skill.cpp(65,25): warning C4100: 'in' : paramètre formel non référencé
+Fortnite Skill.cpp(172,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(204,24): warning C4459: la déclaration de 'ScreenCenterX' masque la déclaration globale
+Fortnite Skill.cpp(50,7): message : voir la déclaration de 'ScreenCenterX'
+Fortnite Skill.cpp(205,24): warning C4459: la déclaration de 'ScreenCenterY' masque la déclaration globale
+Fortnite Skill.cpp(51,7): message : voir la déclaration de 'ScreenCenterY'
+Fortnite Skill.cpp(271,140): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(271,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(271,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(272,140): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(272,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(272,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(273,140): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(273,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(273,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(274,140): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(274,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(274,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(275,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(275,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(320,154): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(320,136): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(320,118): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(320,100): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(320,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(320,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(325,172): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(325,154): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(325,136): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(325,118): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(325,183): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(325,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(325,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(325,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(325,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(330,164): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(330,146): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(330,128): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(330,110): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(330,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(330,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(330,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(335,200): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(335,182): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(335,164): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(335,146): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(336,176): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(336,158): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(336,140): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(336,122): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(340,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(341,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(344,158): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(344,60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(344,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(344,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(345,158): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(345,71): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(345,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(345,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(346,166): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(346,79): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(346,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(346,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(347,166): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(347,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(347,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(347,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(348,166): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(348,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(348,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(348,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(349,166): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(349,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(349,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(349,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(350,174): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(350,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(350,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(350,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(351,174): warning C4305: 'argument' : troncation de 'double' à 'float'
+Fortnite Skill.cpp(351,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(351,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(351,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(354,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(354,60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(354,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(354,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(355,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(355,71): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(355,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(355,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(356,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(356,79): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(356,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(356,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(357,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(357,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(357,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(357,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(358,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(358,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(358,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(358,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(359,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(359,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(359,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(359,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(360,118): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(360,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(360,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(360,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(361,118): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(361,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(361,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(361,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(423,21): warning C4018: '<' : incompatibilité signed/unsigned
+Fortnite Skill.cpp(501,25): warning C4459: la déclaration de 'PlayerState' masque la déclaration globale
+Fortnite Skill.cpp(36,11): message : voir la déclaration de 'PlayerState'
+Fortnite Skill.cpp(446,32): warning C4100: 'argv' : paramètre formel non référencé
+Fortnite Skill.cpp(446,14): warning C4100: 'argc' : paramètre formel non référencé
+Fortnite Skill.cpp(699,24): warning C4459: la déclaration de 'ScreenCenterX' masque la déclaration globale
+Fortnite Skill.cpp(50,7): message : voir la déclaration de 'ScreenCenterX'
+Fortnite Skill.cpp(699,22): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(700,24): warning C4459: la déclaration de 'ScreenCenterY' masque la déclaration globale
+Fortnite Skill.cpp(51,7): message : voir la déclaration de 'ScreenCenterY'
+Fortnite Skill.cpp(700,22): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+Fortnite Skill.cpp(701,15): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(758,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(820,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(832,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(836,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(840,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(844,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(848,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(852,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(856,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(860,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(864,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(868,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(872,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(876,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(880,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(884,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(888,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(892,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(896,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(900,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(904,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(908,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(912,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(916,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(920,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(924,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(928,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(932,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(936,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(940,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(944,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(948,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(952,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(956,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(960,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(964,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(968,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(972,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(976,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(980,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(984,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(988,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(992,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(996,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1000,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1004,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1008,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1012,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1016,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1020,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1024,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1028,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1032,10): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+Fortnite Skill.cpp(1049,44): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1049,29): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1075,21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+Fortnite Skill.cpp(1085,118): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+Fortnite Skill.cpp(1085,78): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1085,65): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1085,61): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1085,33): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1088,20): warning C4456: la déclaration de 'dist' masque la déclaration locale précédente
+Fortnite Skill.cpp(761,7): message : voir la déclaration de 'dist'
+Fortnite Skill.cpp(1094,118): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+Fortnite Skill.cpp(1094,78): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1094,65): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1094,61): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1094,33): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1097,20): warning C4456: la déclaration de 'dist' masque la déclaration locale précédente
+Fortnite Skill.cpp(761,7): message : voir la déclaration de 'dist'
+Fortnite Skill.cpp(1108,64): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+Fortnite Skill.cpp(1108,50): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1108,40): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1132,71): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1132,57): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1132,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1132,33): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1132,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1134,89): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1134,75): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1134,63): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1134,51): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1134,31): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1135,91): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1135,77): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1135,65): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1135,53): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1135,32): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1137,97): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1137,83): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1137,63): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1137,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1137,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1138,101): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1138,87): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1138,66): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1138,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1138,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1140,91): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1140,77): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1140,60): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1140,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1140,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1141,95): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1141,81): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1141,63): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1141,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1141,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1143,81): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1143,67): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1143,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1143,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1143,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1144,83): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1144,69): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1144,58): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1144,47): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1144,29): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1146,91): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1146,77): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1146,60): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1146,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1146,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1147,95): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1147,81): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1147,63): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1147,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1147,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1149,89): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1149,75): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1149,59): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1149,43): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1149,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1150,93): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1150,79): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1150,62): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1150,45): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1150,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+Fortnite Skill.cpp(1157,15): warning C4456: la déclaration de 'dist' masque la déclaration locale précédente
+Fortnite Skill.cpp(761,7): message : voir la déclaration de 'dist'
+Fortnite Skill.cpp(1071,9): warning C4189: 'LeftX' : variable locale initialisée mais non référencée
+Fortnite Skill.cpp(1072,9): warning C4189: 'LeftY' : variable locale initialisée mais non référencée
+Fortnite Skill.cpp(1052,11): warning C4189: 'otherPlayerState' : variable locale initialisée mais non référencée
+Fortnite Skill.cpp(1273,23): warning C4244: '=' : conversion de 'LONG' en 'float', perte possible de données
+Fortnite Skill.cpp(1274,23): warning C4244: '=' : conversion de 'LONG' en 'float', perte possible de données
+Fortnite Skill.cpp(1306,42): warning C4459: la déclaration de 'Message' masque la déclaration globale
+Fortnite Skill.cpp(1232,5): message : voir la déclaration de 'Message'
+C:\Users\roka le plus moche\Downloads\External_Fixed\PastaFN External\Fn\xor.hpp(224,33): warning C4244: '=' : conversion de 'int' en 'char', perte possible de données
+C:\Users\roka le plus moche\Downloads\External_Fixed\PastaFN External\Fn\xor.hpp(222): message : pendant la compilation de la fonction membre classe modèle 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10>>::decrypt(void)'
+Fortnite Skill.cpp(1203): message : voir la référence à l'instanciation de la fonction modèle 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10>>::decrypt(void)' en cours de compilation
+Fortnite Skill.cpp(1190): message : voir la référence à l'instanciation classe modèle 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9,10>>' en cours de compilation
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 1300 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  PastaFNexternal.vcxproj -> C:\Users\roka le plus moche\Downloads\External_Fixed\PastaFN External\x64\Release\PastaFN Neutron Paste.exe
